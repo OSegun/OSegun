@@ -1,7 +1,9 @@
 ### Hi there 👋
-# Zummit-Africa-ML-AL-Projects
 
-A compilation of [Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwasegun/) executed machine learning and deep learning projects while at Zummit Africa as a junior data scientist.
+# OLUWASEGUN I. ODUSINA
+
+[Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwasegun/) is a data scientist/machine learning engineer. He possesses expertise in leading cross-functional teams in building machine learning and AI solutions across various industries like business, agriculture, and art. He's a cloud enthusiast, building his skillset and certification in AWS, alongside participating in open-source training and projects in collaboration with the Cloud Native Computing Foundation (CNCF).
+He aims at providing solutions that address critical organizational needs, unveiling invaluable business insights through comprehensive data analysis, and constructing sophisticated  recommendation systems or predictive models.
 
 ## Table of Content:
 
