@@ -1,9 +1,30 @@
-### Hi there 👋
-
-# OLUWASEGUN I. ODUSINA
+<h1 align="center">Hi 👋, I'm Oluwasegun Odusina</h1>
 
 [Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwasegun/) is a data scientist/machine learning engineer. He possesses expertise in leading cross-functional teams in building machine learning and AI solutions across various industries like business, agriculture, and art. He's a cloud enthusiast, building his skillset and certification in AWS, alongside participating in open-source training and projects in collaboration with the Cloud Native Computing Foundation (CNCF).
-He aims at providing solutions that address critical organizational needs, unveiling invaluable business insights through comprehensive data analysis, and constructing sophisticated  recommendation systems or predictive models.
+He aims to provide solutions that address critical organizational needs, unveiling invaluable business insights through comprehensive data analysis, and constructing sophisticated  recommendation systems or predictive models.
+
+- 💬 Ask me about **Data Science/Machine Learning and Data Engineering**
+
+- 📫 How to reach me **odusinaoluwasegun@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/odusina oluwasegun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="odusina oluwasegun" height="30" width="40" /></a>
+<a href="https://medium.com/@odusinaoluwasegun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@odusinaoluwasegun" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osegun&show_icons=true&locale=en&layout=compact" alt="osegun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osegun&show_icons=true&locale=en" alt="osegun" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osegun&" alt="osegun" /></p>
 
 ## Table of Content:
 
@@ -42,7 +63,5 @@ He aims at providing solutions that address critical organizational needs, unvei
 - [Crop Prediction and Crop Recommendation](https://github.com/Zummit-Africa-Inc/Crop-Yield-Prediction/tree/main/results/Crop-Recommendation) Crop recommendation system to help predict the type of crop to plant.
 - [Contract Review](https://github.com/OSegun/Contract_Review) Artificial intelligence to streamline the contract review process. It identifies key phrases, clauses, rights, and obligations of an individual or company signing it and assessing the associated impact helping lawyers spot potential problems and make the review process more efficient.
 - [WazobiaApp With LangChain & Streamlit](https://github.com/Izu-33/Wazobia-The-Nigerian-Translator) or [WazobiaApp With LangChain & FastApi](https://github.com/OSegun/WazobiaApp) Wazobia (The Nigerian Translator) is a web application that can translate English to any of the three most popular Nigerian languages (Hausa, Igbo, Yoruba). Wazobia is implemented with Langchain and with both Streamlit and Fastapi.
-
-
 ### Model-Deployment
 - [MELB_Housing_Model_&_Deployment](https://github.com/OSegun/Zummit-Africa-ML-AL-Projects/tree/main/MELB_Housing_Model_%26_Deployment) 
