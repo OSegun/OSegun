@@ -3,7 +3,7 @@
 [Oluwasegun Odusina's](https://www.linkedin.com/in/odusinaoluwasegun/) is a data scientist/machine learning engineer. He possesses expertise in leading cross-functional teams in building machine learning and AI solutions across various industries like business, agriculture, and art. He's a cloud enthusiast, building his skillset and certification in AWS, alongside participating in open-source training and projects in collaboration with the Cloud Native Computing Foundation (CNCF).
 He aims to provide solutions that address critical organizational needs, unveiling invaluable business insights through comprehensive data analysis, and constructing sophisticated  recommendation systems or predictive models.
 
-- 💬 Ask me about **Data Science/Machine Learning and Data Engineering**
+- 💬 Ask me about **Data AI/ML and Data Engineering**
 
 - 📫 How to reach me **odusinaoluwasegun@gmail.com**
 
