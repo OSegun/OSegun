@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer | AI Solutions Developer | Data Scientist</h3>
 
 <p align="center">
-Building and deploying production-grade AI systems — from computer vision and NLP to LLM/RAG applications — with <b>3+ years</b> of experience and <b>92%+ average model accuracy</b> across 15+ projects in security, advertising, agriculture, healthcare, and EdTech.
+Building and deploying production-grade AI systems — from computer vision and NLP to LLM/RAG applications — with <b>4+ years</b> of experience and <b>92%+ average model accuracy</b> across 15+ projects in security, advertising, agriculture, healthcare, and EdTech.
 </p>
 
 <p align="center">
