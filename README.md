@@ -14,15 +14,15 @@ Building and deploying production-grade AI systems — from computer vision and 
 ---
 
 ### 🚀 Currently
-- **AI Infrastructural Engineer** @ Hayrok (Network Security) — building AI-driven agents for pentesting, threat detection, attack surface monitoring & fraud detection
 - **AI Facilitator** @ [AI] Academy — designing advanced AI course content & mentoring learners
 - **Machine Learning Engineer** @ Omdena — ML for social impact, processing 100K+ data points at 94% avg. accuracy
+- **AI Infrastructural Engineer** @ Hayrok (Network Security) — building AI-driven agents for pentesting, threat detection, attack surface monitoring & fraud detection
 - Pursuing **MSc Information Technology** @ Mivas Open University (in-view)
 
 ### 🧭 Career Snapshot
 | Role | Company | Period |
 |---|---|---|
-| AI Infrastructural Engineer | Hayrok (Network Security) | Nov 2025 – Present |
+| AI Infrastructural Engineer | Hayrok (Network Security) | Nov 2025 – May 2026 |
 | AI/ML Engineer | Punch Group (USA) | Oct 2025 – Feb 2026 |
 | AI Facilitator | [AI] Academy | Jun 2025 – Present |
 | Senior Data & AI Facilitator | GoMyCode | Sept 2023 – Sept 2025 |
@@ -112,6 +112,7 @@ Building and deploying production-grade AI systems — from computer vision and 
 ## 🎓 Education & Certifications
 
 **MSc Information Technology** — Mivas Open University (2026 – Present, in-view)
+
 **B.Eng. Mechanical Engineering** — Federal University of Technology, Akure (2014 – 2018)
 
 - TensorFlow: Advanced Techniques Specialization — Coursera/DeepLearning.AI *(in-view)*
@@ -121,7 +122,7 @@ Building and deploying production-grade AI systems — from computer vision and 
 - [Data Science](https://app.dataquest.io/view_cert/UI90C6Q179KOK1FJWF94), [Data Engineering](https://app.dataquest.io/view_cert/LRVPPWX8TNUNJ4Z06NBR), [Data Analyst](https://app.dataquest.io/view_cert/X6H670PQUFI5PSZCQU43) — DataQuest (2023)
 - [AI Engineer for Data Scientist](https://www.datacamp.com/certificate/AEDS0016913114182) — DataCamp
 - Data Science Professional — DataCamp ([Full DataCamp Portfolio](https://www.datacamp.com/portfolio/odusinaoluwasegun))
-- [AWS Cloud Practitioner](https://www.credly.com/badges/0c31ee88-f0db-4593-bfae-8508b8889c66/public_url) & [AWS Solutions Architect](https://www.credly.com/badges/7130f120-16de-44e4-92ad-ccde3dcb89e5) — ALX (2024)
+- [AWS Cloud Practitioner](https://www.credly.com/badges/7130f120-16de-44e4-92ad-ccde3dcb89e5) & [AWS Solutions Architect](https://www.credly.com/badges/0c31ee88-f0db-4593-bfae-8508b8889c66/public_url) — 2024
 - [Applied Generative AI & NLP Preprocessing](http://ude.my/UC-199a2899-5a82-42a4-837f-416b9eecafd7), [LangChain: Build GenAI](https://www.udemy.com/certificate/UC-1e504242-6d89-4f8e-b5be-2bd987259222/), [Ollama: LLM Application](https://www.udemy.com/certificate/UC-9d9ebdfb-e6fd-4057-b7fe-67c00804ccfe/), [GenAI Projects](https://www.udemy.com/certificate/UC-e59a4ec6-57b3-40d2-888a-d3df43b103d6/) — Udemy (2024)
 
 ---
