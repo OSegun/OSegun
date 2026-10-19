@@ -135,5 +135,14 @@ Building and deploying production-grade AI systems — from computer vision and 
 - Mentored 50+ junior data scientists, with 95% reporting improved technical skills within 3 months.
 
 ---
+## Recognition
+
+My volunteer contribution to the **3MTT Mentorship Program**.
+
+![3MTT Cohort 1]([./img/cohort_1.jpeg](https://github.com/OSegun/Build-Deploy-Regression-Time-Series-ML-FastAPI-MLFlow-Docker-CI-CD-AWS/blob/main/img/cohort_1.jpeg))
+
+![3MTT Cohort 2]([./img/cohort_2.jpeg](https://github.com/OSegun/Build-Deploy-Regression-Time-Series-ML-FastAPI-MLFlow-Docker-CI-CD-AWS/blob/main/img/cohort_2.jpeg))
+
+---
 
 <p align="center"><i>Open to Data Science, Data Engineering, Machine Learning, and AI Engineering opportunities — let's connect!</i></p>
