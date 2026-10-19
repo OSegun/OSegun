@@ -139,9 +139,9 @@ Building and deploying production-grade AI systems — from computer vision and 
 
 My volunteer contribution to the **3MTT Mentorship Program**.
 
-![3MTT Cohort 1]([./img/cohort_1.jpeg](https://github.com/OSegun/Build-Deploy-Regression-Time-Series-ML-FastAPI-MLFlow-Docker-CI-CD-AWS/blob/main/img/cohort_1.jpeg))
+![3MTT Cohort 1](https://github.com/OSegun/Build-Deploy-Regression-Time-Series-ML-FastAPI-MLFlow-Docker-CI-CD-AWS/blob/main/img/cohort_1.jpeg)
 
-![3MTT Cohort 2]([./img/cohort_2.jpeg](https://github.com/OSegun/Build-Deploy-Regression-Time-Series-ML-FastAPI-MLFlow-Docker-CI-CD-AWS/blob/main/img/cohort_2.jpeg))
+![3MTT Cohort 2](https://github.com/OSegun/Build-Deploy-Regression-Time-Series-ML-FastAPI-MLFlow-Docker-CI-CD-AWS/blob/main/img/cohort_2.jpeg)
 
 ---
 
